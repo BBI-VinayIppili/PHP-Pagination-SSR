@@ -32,4 +32,3 @@ FROM INFORMATION_SCHEMA.PARTITIONS
 WHERE TABLE_SCHEMA = 'employee_db'
   AND TABLE_NAME = 'employee_records';
 
-
